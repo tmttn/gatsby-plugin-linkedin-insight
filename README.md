@@ -1,6 +1,6 @@
 # gatsby-plugin-linkedin-insight
 
-Easily add LinkedIn Insight to your Gatsby site.
+Easily add [LinkedIn Insight](https://business.linkedin.com/marketing-solutions/website-demographics) to your Gatsby site.
 
 ## Install
 
