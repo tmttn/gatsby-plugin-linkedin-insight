@@ -15,7 +15,7 @@
     "babel-preset-gatsby-package": "^0.1.4",
     "cross-env": "^5.1.4"
   },
-  "homepage": "https://github.com/floriangaechter/gatsby-plugin-linkedin-insight/tree/master/packages/gatsby-plugin-linkedin-insight#readme",
+  "homepage": "https://github.com/floriangaechter/gatsby-plugin-linkedin-insight/blob/master/README.md",
   "keywords": [
     "linkedin analytics",
     "linkedin insight",
