@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-linkedin-insight",
   "description": "Gatsby plugin to add LinkedIn Insight onto a site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Florian Gächter <florian.gaechter@gmail.com>",
   "bugs": {
     "url": "https://github.com/floriangaechter/gatsby-plugin-linkedin-insight/issues"
