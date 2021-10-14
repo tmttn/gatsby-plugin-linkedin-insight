@@ -1,16 +1,12 @@
 {
-  "name": "gatsby-plugin-linkedin-insight",
+  "name": "@tmttn/gatsby-plugin-linkedin-insight",
   "description": "Gatsby plugin to add LinkedIn Insight onto a site",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "private": false,
+  "author": "thomas.metten <t.metten@aca-it.be> (http://www.aca-it.be/)",
   "contributors": [
-    {
-      "name": "Florian Gächter",
-      "email": "florian.gaechter@gmail.com"
-    },
-    {
-      "name": "Thomas Metten",
-      "email": "thomas.metten@gmail.com"
-    }
+    "Florian Gächter <florian.gaechter@gmail.com>",
+    "Thomas Metten <thomas.metten@gmail.com>"
   ],
   "bugs": {
     "url": "https://github.com/tmttn/gatsby-plugin-linkedin-insight/issues"
@@ -38,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tmttn/gatsby-plugin-linkedin-insight.git"
+    "url": "git+https://github.com/tmttn/gatsby-plugin-linkedin-insight.git"
   },
   "scripts": {
     "build": "babel src --out-dir . --ignore **/__tests__",
