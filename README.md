@@ -38,4 +38,4 @@ Out of the box this plugin will simply load LinkedIn Insight on the initial page
 
 Thanks to [gatsby-plugin-facebook-pixel](https://github.com/gabeskipio/gatsby-plugin-facebook-pixel) and [gatsby-plugin-google-tagmanager](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-google-tagmanager) for a great base for this plugin!
 
-the original creator of this plugin: [Original repo](https://github.com/floriangaechter/gatsby-plugin-linkedin-insight.git)
+the original creator of this plugin: [Florian Gächter's gatsby-plugin-linkedin-insight](https://github.com/floriangaechter/gatsby-plugin-linkedin-insight.git)
