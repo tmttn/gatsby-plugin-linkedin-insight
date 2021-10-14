@@ -4,7 +4,7 @@ Easily add [LinkedIn Insight](https://business.linkedin.com/marketing-solutions/
 
 ---
 
-## 💡 This is a fork from [Florian Gächter's gatsby-plugin-linkedin-insight Gatsby plugin](https://github.com/floriangaechter/gatsby-plugin-linkedin-insight.git). The motivation for creating this fork is inactivity on the original repository: the original plugin's support goes up to Gatsby V2, and hasn't been updated for at least 7 months.
+## 💡 This is a fork from [Florian Gächter's gatsby-plugin-linkedin-insight Gatsby plugin](https://github.com/floriangaechter/gatsby-plugin-linkedin-insight.git). The motivation for creating this fork is inactivity on the original repository: the original plugin's support goes up to Gatsby V2, and hasn't been updated for at least 7 months
 
 ---
 
