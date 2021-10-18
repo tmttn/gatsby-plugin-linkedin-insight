@@ -18,7 +18,7 @@ Easily add [LinkedIn Insight](https://business.linkedin.com/marketing-solutions/
 // In your gatsby-config.js
 plugins: [
   {
-    resolve: `gatsby-plugin-linkedin-insight`,
+    resolve: `@tmttn/gatsby-plugin-linkedin-insight`,
     options: {
       partnerId: `YOUR_LINKEDIN_INSIGHT_PARTNER_ID`,
 
