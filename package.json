@@ -1,7 +1,7 @@
 {
   "name": "@tmttn/gatsby-plugin-linkedin-insight",
   "description": "Gatsby plugin to add LinkedIn Insight onto a site",
-  "version": "1.0.2",
+  "version": "4.0.0",
   "private": false,
   "author": "thomas.metten <t.metten@aca-it.be> (http://www.aca-it.be/)",
   "contributors": [
@@ -30,7 +30,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": ">= 2.0.0 < 4"
+    "gatsby": ">= 2.0.0 < 5"
   },
   "repository": {
     "type": "git",
