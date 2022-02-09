@@ -10,7 +10,9 @@ Easily add [LinkedIn Insight](https://business.linkedin.com/marketing-solutions/
 
 ## Install
 
-`npm install --save gatsby-plugin-linkedin-insight`
+```sh
+npm install --save @tmttn/gatsby-plugin-linkedin-insight
+```
 
 ## How to use
 
