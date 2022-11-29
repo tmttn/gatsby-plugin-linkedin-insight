@@ -1,7 +1,7 @@
 {
   "name": "@tmttn/gatsby-plugin-linkedin-insight",
   "description": "Gatsby plugin to add LinkedIn Insight onto a site",
-  "version": "4.0.0",
+  "version": "5.2.0",
   "private": false,
   "author": "thomas.metten <t.metten@aca-it.be> (http://www.aca-it.be/)",
   "contributors": [
@@ -12,13 +12,13 @@
     "url": "https://github.com/tmttn/gatsby-plugin-linkedin-insight/issues"
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0"
+    "@babel/runtime": "^7.20.6"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0",
-    "@babel/core": "^7.0.0",
-    "babel-preset-gatsby-package": "^0.1.4",
-    "cross-env": "^5.1.4"
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "babel-preset-gatsby-package": "^3.2.0",
+    "cross-env": "^7.0.3"
   },
   "homepage": "https://github.com/tmttn/gatsby-plugin-linkedin-insight/blob/master/README.md",
   "keywords": [
@@ -30,7 +30,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": ">= 2.0.0 < 5"
+    "gatsby": ">= 2.0.0 < 6"
   },
   "repository": {
     "type": "git",
